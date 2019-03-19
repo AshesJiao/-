@@ -1,0 +1,62 @@
+{
+        "svidList": [{
+                "vid": "VUL3HRH38",
+                "mp4Hd_url": "http://flv3.bn.netease.com/videolib3/1807/06/OZfbg4221/HD/OZfbg4221-mobile.mp4",
+                "title": "橘子香草口味的可口可乐，你也想尝试一下？",
+                "cover": "http://img.kaiyanapp.com/7c12d7e569c0933704e79b78099554b9.png?imageMogr2/quality/60/format/jpg",
+                "mp4_url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=152921&resourceType=video&editionType=normal&source=aliyun",
+                "length": 29,
+                "m3u8_url": "http://flv.bn.netease.com/videolib3/1807/06/OZfbg4221/SD/movie_index.m3u8",
+                "m3u8Hd_url": "http://flv.bn.netease.com/videolib3/1807/06/OZfbg4221/HD/movie_index.m3u8"
+            },
+            {
+                "vid": "VUL1QU9E3",
+                "mp4Hd_url": "http://flv3.bn.netease.com/videolib3/1807/05/CqzbI1798/HD/CqzbI1798-mobile.mp4",
+                "title": "范宁主演时尚大片：月球上的女人",
+                "cover": "http://img.kaiyanapp.com/3f93ece6bc6339baa31c8c4ed89d499d.jpeg?imageMogr2/quality/60/format/jpg",
+                "mp4_url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=149581&resourceType=video&editionType=default&source=aliyun",
+                "length": 38,
+                "m3u8_url": "http://flv.bn.netease.com/videolib3/1807/05/CqzbI1798/SD/movie_index.m3u8",
+                "m3u8Hd_url": "http://flv.bn.netease.com/videolib3/1807/05/CqzbI1798/HD/movie_index.m3u8"
+            },
+            {
+                "vid": "VUL1EBOPR",
+                "mp4Hd_url": "http://flv3.bn.netease.com/videolib3/1807/05/jrLdy8997/HD/jrLdy8997-mobile.mp4",
+                "title": "这些女性运动员的共同点在于：为了梦想无所畏惧，再疯狂的梦都会成真。",
+                "cover": "http://img.kaiyanapp.com/a23bcb16da7c607f68d3be1d2daad940.jpeg?imageMogr2/quality/60/format/jpg",
+                "mp4_url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=151563&resourceType=video&editionType=default&source=aliyun",
+                "length": 128,
+                "m3u8_url": "http://flv.bn.netease.com/videolib3/1807/05/jrLdy8997/SD/movie_index.m3u8",
+                "m3u8Hd_url": "http://flv.bn.netease.com/videolib3/1807/05/jrLdy8997/HD/movie_index.m3u8"
+            },
+            {
+                "vid": "VUKSHKN91",
+                "mp4Hd_url": "http://flv3.bn.netease.com/videolib3/1807/03/vHCzp6580/HD/vHCzp6580-mobile.mp4",
+                "title": "不要害怕紧张，而是要化紧张为放手一博的力量，全力以赴！",
+                "cover": "http://img.kaiyanapp.com/9ef88c924bce05009dd2021755cbe1e4.jpeg?imageMogr2/quality/60/format/jpg",
+                "mp4_url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=152726&resourceType=video&editionType=default&source=aliyun",
+                "length": 119,
+                "m3u8_url": "http://flv.bn.netease.com/videolib3/1807/03/vHCzp6580/SD/movie_index.m3u8",
+                "m3u8Hd_url": "http://flv.bn.netease.com/videolib3/1807/03/vHCzp6580/HD/movie_index.m3u8"
+            },
+            {
+                "vid": "VUKSE1NV8",
+                "mp4Hd_url": "http://flv3.bn.netease.com/videolib3/1807/03/hbsKW5286/HD/hbsKW5286-mobile.mp4",
+                "title": "每次看球员在滑，都很担心他们的膝盖啊……",
+                "cover": "http://img.kaiyanapp.com/976dcc71cb76fabf19707ff592d61eb8.jpeg?imageMogr2/quality/60/format/jpg",
+                "mp4_url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=152725&resourceType=video&editionType=default&source=aliyun",
+                "length": 134,
+                "m3u8_url": "http://flv.bn.netease.com/videolib3/1807/03/hbsKW5286/SD/movie_index.m3u8",
+                "m3u8Hd_url": "http://flv.bn.netease.com/videolib3/1807/03/hbsKW5286/HD/movie_index.m3u8"
+            },
+            {
+                "vid": "VUKSEKI57",
+                "mp4Hd_url": "http://flv3.bn.netease.com/videolib3/1807/03/XadRO5768/HD/XadRO5768-mobile.mp4",
+                "title": "可口可乐交友新套路！缘，妙不可言",
+                "cover": "http://img.kaiyanapp.com/5a4787a14ba62cc1ed017b5dac903b5f.png?imageMogr2/quality/60/format/jpg",
+                "mp4_url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=152699&resourceType=video&editionType=default&source=aliyun",
+                "length": 37,
+                "m3u8_url": "http://flv.bn.netease.com/videolib3/1807/03/XadRO5768/SD/movie_index.m3u8",
+                "m3u8Hd_url": "http://flv.bn.netease.com/videolib3/1807/03/XadRO5768/HD/movie_index.m3u8"
+            }]
+}

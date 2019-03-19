@@ -1,0 +1,25 @@
+@mixin border-bottom($color) {
+    position: relative;
+    &:after {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      display: block;
+      width: 100%;
+      content: ' ';
+      border-top: 1px solid $color;
+    }
+  }
+  @mixin border-top($color) {
+    position: relative;
+    &::before {
+      position: absolute;
+      left: 0;
+      top: 0;
+      display: block;
+      width: 100%;
+      content: ' ';
+      border-top: 1px solid $color;
+    }
+  }
+  
